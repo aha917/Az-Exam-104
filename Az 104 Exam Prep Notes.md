@@ -37,8 +37,8 @@ Global Administrator is the __Super Role__ *in EntraID*.
 
 
 ## Bulk operations
-Bulk Create is for internal users.
-Bulk invite is for external users.
+- Bulk Create is for internal users.
+- Bulk invite is for external users.
 
 The password field can be left empty. 
 
@@ -219,5 +219,3 @@ Load Testing, u can see where users are going at, development tests.
 
 
 251:00
-Github  New Features
-1 2 3 4 5 5 6 7  8 90
