@@ -218,10 +218,4 @@ Load Testing, u can see where users are going at, development tests.
 
 
 
-<<<<<<< HEAD
 >> 251:00
-1 2 3 4 5 6 7 8 9 0 changed
-ne wlines 
-=======
-251:00
->>>>>>> df897c245beee4221dc8198444e3bac979ba4e96
