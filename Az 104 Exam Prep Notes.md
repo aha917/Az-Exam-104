@@ -1,11 +1,15 @@
 # URLs
 [**timothywarner**](https://github.com/timothywarner/az104) ["timothywarner frankenstein"](https://github.com/timothywarner/frankenstein)
 
-[Az Architecute](https://learn.microsoft.com/en-us/azure/architecture/)
+[Study guide for Exam AZ-104: Microsoft Azure Administrator](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104) |
+[**Browse all courses, learning paths, and modules**](https://learn.microsoft.com/en-us/training/browse/?roles=administrator&resource_type=learning%20path)
 
-[Well Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
+[Az Architecture](https://learn.microsoft.com/en-us/azure/architecture/) | 
+[Well Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) | [Cloud Adoption Framework [CAF]]( https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
-[AZ-104 Administrator Associate Study Cram v2](https://www.youtube.com/watch?v=0Knf9nub4-k)
+[**John Savil** AZ-104 Administrator Associate Study Cram v2](https://www.youtube.com/watch?v=0Knf9nub4-k)
+
+[**Az IP Ranges**](https://azureipranges.azurewebsites.net/)
 
 
 # #Policy and Governance
